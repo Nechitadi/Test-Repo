@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+ 
+
+I have learned some new tags like: <meta charset="UTF-8">, <sub>, <sup>, <strike>; 
+* What has been easy?
+ 
+It has been easy to realise the tasks because I already had a little background in HTML 
+* What has been difficult?
+
+  The way that you explained the concept of paths was a little foggy. But I understood it in the end (maybe because I've used paths before).
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+  Yes
